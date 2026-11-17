@@ -6,28 +6,27 @@ PERANCANGAN ALGORITMA (PSEUDOCODE)
 
 A. IDENTITAS SISWA
 
-Nama Lengkap :
-Kelas        :
-Nomor Absen  :
-Username GitHub :
+Nama Lengkap : PRISMA AULYA KAMAL
+Kelas        : XII-8
+Nomor Absen  : 28
+Username GitHub : prismaaulyakamal-prog
 
 B. JUDUL PROGRAM
 
-Tuliskan judul program yang akan dibuat.
+Program Menghitung Luas Persegi Panjang.
 
 C. DESKRIPSI MASALAH
 
-Jelaskan permasalahan yang ingin diselesaikan
-menggunakan program.
+Program ini dibuat untuk menghitung luas persegi panjang berdasarkan nilai panjang dan lebar yang dimasukkan oleh pengguna.
 
 D. TUJUAN PROGRAM
 
-Jelaskan tujuan dan manfaat program yang dibuat.
+Membantu pengguna menghitung luas persegi panjangsecara cepat dan tepat.
 
 E. ANALISIS INPUT, PROSES, DAN OUTPUT
 
 1. DEKLARASI 
-   Tuliskan deklarasi yang dibuat
+   L,P,l float
 
 2. INPUT:
    Tuliskan data yang dimasukkan pengguna.
