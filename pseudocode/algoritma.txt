@@ -21,7 +21,7 @@ Program ini dibuat untuk menghitung luas persegi panjang berdasarkan nilai panja
 
 D. TUJUAN PROGRAM
 
-Membantu pengguna menghitung luas persegi panjangsecara cepat dan tepat.
+Membantu pengguna menghitung luas persegi panjang secara cepat dan tepat.
 
 E. ANALISIS INPUT, PROSES, DAN OUTPUT
 
