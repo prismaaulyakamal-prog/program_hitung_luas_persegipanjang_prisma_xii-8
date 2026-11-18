@@ -48,6 +48,7 @@ MULAI
 
 SELESAI
 
+
 G. KETERANGAN
 
 Jelaskan alasan penggunaan algoritma tersebut
