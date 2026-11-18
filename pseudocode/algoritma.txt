@@ -26,7 +26,7 @@ Membantu pengguna menghitung luas persegi panjang secara cepat dan tepat.
 E. ANALISIS INPUT, PROSES, DAN OUTPUT
 
 1. DEKLARASI 
-   L,P,l float
+   L,p,l float
 
 2. INPUT:
    Tuliskan data yang dimasukkan pengguna.
